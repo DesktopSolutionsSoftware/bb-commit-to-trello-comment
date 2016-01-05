@@ -2,7 +2,6 @@
 /*
  * BitBucket Commit Message to Trello Card Comments
  * @author Andrew Natoli
- * @version 1.0
  *
  * Put this on your server and create a "push" webhook for it on BitBucket. When you push a commit containing the
  * full URL of a Trello card you can comment on, the commit message, URL, and author will be posted as a comment on
@@ -14,7 +13,7 @@
  * be improving the comment messages, enhancing security, etc. please fork the repo and submit a pull request!
  *
  * The MIT License (MIT)
- * Copyright (c) 2016 Andrew Natoli, Desktop Solutions Software
+ * Copyright (c) 2016 Desktop Solutions Software
  * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
  * documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
  * rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
