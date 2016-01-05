@@ -22,7 +22,7 @@
     },
     "scripts": {
         "post-create-project-cmd": [
-            "php -r cli-install.php"
+            "php cli-install.php"
         ]
     }
 }
