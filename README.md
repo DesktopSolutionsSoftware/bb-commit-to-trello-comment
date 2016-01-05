@@ -6,7 +6,7 @@ BitBucket web hook for commenting commit messages into Trello cards.
 
 ### Install via composer
 ```
-composer create-project devopsolutions/bbucket-to-trello
+composer create-project desktopsolutions/bbucket-to-trello
 ```
 *...or clone the repository.*
 
