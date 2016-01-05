@@ -1,5 +1,28 @@
 {
+    "name": "desktopsolutions/bbucket-to-trello",
+    "description": "BitBucket web hook for commenting commit messages into Trello cards.",
+    "version": "1.0.0-beta",
+    "type": "project",
+    "keywords": ["bitbucket", "webhook", "commit", "commits", "trello", "card", "cards", "comments"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Natoli",
+            "email": "Andrew@DesktopSolutions.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/DesktopSolutionsSoftware/bb-commit-to-trello-comment",
+        "issues": "https://github.com/DesktopSolutionsSoftware/bb-commit-to-trello-comment/issues"
+    },
     "require": {
+        "php": ">=5.3.0",
         "mattzuba/php-trello": "^1.1"
+    },
+    "scripts": {
+        "post-create-project-cmd": [
+            "php -r cli-install.php"
+        ]
     }
 }
