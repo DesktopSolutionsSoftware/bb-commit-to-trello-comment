@@ -19,5 +19,5 @@
     "require": {
         "php": ">=5.3.0",
         "mattzuba/php-trello": "^1.1"
-    },
+    }
 }
