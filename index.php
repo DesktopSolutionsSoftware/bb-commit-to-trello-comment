@@ -70,7 +70,7 @@ foreach ($payload->push->changes[0]->commits as $commit) {
         }
     }
 
-    if(count($cards) > 1) {
+    if(count($cards) > 0) {
         $total_commits_used++;
         $comment = "{$commit->type} {$commit->hash} by {$commit->author->user->display_name}\n------\n{$commit->message}\n------\n{$commit->links->html->href}";
         foreach ($cards as $card) {

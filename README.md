@@ -1,5 +1,7 @@
 bb-commit-to-trello-comment
 -----
+[![Latest Stable Version](https://poser.pugx.org/desktopsolutions/bbucket-to-trello/v/stable)](https://packagist.org/packages/desktopsolutions/bbucket-to-trello) [![Total Downloads](https://poser.pugx.org/desktopsolutions/bbucket-to-trello/downloads)](https://packagist.org/packages/desktopsolutions/bbucket-to-trello) [![Latest Unstable Version](https://poser.pugx.org/desktopsolutions/bbucket-to-trello/v/unstable)](https://packagist.org/packages/desktopsolutions/bbucket-to-trello) [![License](https://poser.pugx.org/desktopsolutions/bbucket-to-trello/license)](https://packagist.org/packages/desktopsolutions/bbucket-to-trello)
+
 BitBucket web hook for commenting commit messages into Trello cards.
 
 ## Installation
