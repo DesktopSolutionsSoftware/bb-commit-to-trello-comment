@@ -1,7 +1,7 @@
 {
     "name": "desktopsolutions/bbucket-to-trello",
     "description": "BitBucket web hook for commenting commit messages into Trello cards.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "project",
     "keywords": ["bitbucket", "webhook", "commit", "commits", "trello", "card", "cards", "comments"],
     "license": "MIT",
